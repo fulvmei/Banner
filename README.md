@@ -21,7 +21,7 @@ allprojects {
 ```
 dependencies {
   ...
-  implementation 'com.github.fulvmei:banner:1.0.0'
+  implementation 'com.github.fulvmei:Banner:1.0.0'
 }
 ```
 
