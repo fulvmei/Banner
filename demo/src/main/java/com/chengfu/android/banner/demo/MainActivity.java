@@ -1,7 +1,8 @@
-package com.chengfu.android.banner;
+package com.chengfu.android.banner.demo;
 
 import android.os.Bundle;
 
+import com.chengfu.android.banner.Banner;
 import com.chengfu.android.banner.transformer.OverlayTransformer;
 
 import androidx.annotation.NonNull;
