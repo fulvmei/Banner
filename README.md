@@ -3,7 +3,7 @@
 基于ViewPager2实现的轮播控件，目前实现层叠卡片效果，后续会加入更多的效果。
 
 ## 运行效果
-![Oops! The screenshot is missing!](https://github.com/fulvmei/Banner/raw/master/screenshot/overlay.png)
+![Oops! The screenshot is missing!](https://github.com/fulvmei/Banner/raw/master/screenshots/overlay.png)
 
 ## 使用步骤
 ### 1. 在project的build.gradle添加如下代码
